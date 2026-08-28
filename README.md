@@ -28,7 +28,3 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter,gcp,supabase,vercel,ai" />
 </p>
 
-<p align="center">
-  <!-- GitHub Stats animasi -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LegendnStudio&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777777" />
-</p>
